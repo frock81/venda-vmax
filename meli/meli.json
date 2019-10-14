@@ -1,18 +1,10 @@
 [
-{"title": "Yamaha Yamaha Vmax 1200 Cc", "mileage": "29000 km", "location": "S\u00e3o Paulo", "value": "24.000", "year": "1995"},
-{"title": "Yamaha Vmax 1200 145hp Americana Preta Costumizada", "mileage": "56000 km", "location": "Distrito Federal", "value": "24.300", "year": "1995"},
-{"title": "Yamaha V-max", "mileage": "17000 km", "location": "S\u00e3o Paulo", "value": "25.000", "year": "1995"},
-{"title": "Yamaha V-max", "mileage": "26580 km", "location": "Minas Gerais", "value": "25.000", "year": "1995"},
-{"title": "Yamaha V-max", "mileage": "25174 km", "location": "S\u00e3o Paulo", "value": "28.000", "year": "1995"},
-{"title": "Vendo Moto Yamaha V-max 1200 Ou Troco Por Camionete", "mileage": "57000 km", "location": "Santa Catarina", "value": "25.000", "year": "1995"},
-{"title": "Yamaha V-max", "mileage": "56000 km", "location": "S\u00e3o Paulo", "value": "30.000", "year": "1995"},
-{"title": "Yamaha - V-max 1200", "mileage": "34075 km", "location": "Paran\u00e1", "value": "33.950", "year": "1995"},
-{"description": "COMPRA \u2013 TROCA \u2013 FINANCIA"},
-{"description": "Moto muito nova"},
-{"description": "aceito sua moto na troca e parcelamos no cartao ate 12 x"},
-{"description": "Yamaha Vmax 1200 1995 145hp vboost funcionando perfeitamente, tudo em ordem, documentos em dia, revis\u00e3o completa feita, apenas detalhes no escapamento."},
-{"description": "Yamaha V-max 1995 em excelente estado de conserva\u00e7\u00e3o, uma verdadeira raridade, sem quedas, ideal para colecionadores, equipada com um motor em V de 4 cilindros, Vendo ou Troco por camionete. Considerar R$ 29.000,00 para troca."},
-{"description": null},
-{"description": "Yamaha V-max ano 1995, vers\u00e3o americana/canadense 145hp"},
-{"description": "Moto customizada, toda revisada (juntas do carburador, tamp\u00f5es do carburador, placa de partida nova, retentores das bengalas, reparo da embreagem, bateria 18 amp nova, \u00f3leo do motor, \u00f3leo das bengalas, flu\u00eddo de embreagem, flu\u00eddo do radiador, chicote el\u00e9trico) pneus novos com menos de 1.000 km."}
+{"mileage": "17000 km", "description": "aceito sua moto na troca e parcelamos no cartao ate 12 x", "title": "Yamaha V-max", "price": "25.000", "location": "S\u00e3o Paulo", "year": "1995"},
+{"mileage": "26580 km", "description": "Moto muito nova", "title": "Yamaha V-max", "price": "25.000", "location": "Minas Gerais", "year": "1995"},
+{"mileage": "25174 km", "description": "Yamaha V-max ano 1995, vers\u00e3o americana/canadense 145hp", "title": "Yamaha V-max", "price": "28.000", "location": "S\u00e3o Paulo", "year": "1995"},
+{"mileage": "29000 km", "description": "Yamaha Vmax 1200 1995 145hp vboost funcionando perfeitamente, tudo em ordem, documentos em dia, revis\u00e3o completa feita, apenas detalhes no escapamento.", "title": "Yamaha Yamaha Vmax 1200 Cc", "price": "24.000", "location": "S\u00e3o Paulo", "year": "1995"},
+{"mileage": "34075 km", "description": "COMPRA \u2013 TROCA \u2013 FINANCIA", "title": "Yamaha - V-max 1200", "price": "33.950", "location": "Paran\u00e1", "year": "1995"},
+{"mileage": "56000 km", "description": "Moto customizada, toda revisada (juntas do carburador, tamp\u00f5es do carburador, placa de partida nova, retentores das bengalas, reparo da embreagem, bateria 18 amp nova, \u00f3leo do motor, \u00f3leo das bengalas, flu\u00eddo de embreagem, flu\u00eddo do radiador, chicote el\u00e9trico) pneus novos com menos de 1.000 km.", "title": "Yamaha Vmax 1200 145hp Americana Preta Costumizada", "price": "24.300", "location": "Distrito Federal", "year": "1995"},
+{"mileage": "56000 km", "description": null, "title": "Yamaha V-max", "price": "30.000", "location": "S\u00e3o Paulo", "year": "1995"},
+{"mileage": "57000 km", "description": "Yamaha V-max 1995 em excelente estado de conserva\u00e7\u00e3o, uma verdadeira raridade, sem quedas, ideal para colecionadores, equipada com um motor em V de 4 cilindros, Vendo ou Troco por camionete. Considerar R$ 29.000,00 para troca.", "title": "Vendo Moto Yamaha V-max 1200 Ou Troco Por Camionete", "price": "25.000", "location": "Santa Catarina", "year": "1995"}
 ]
